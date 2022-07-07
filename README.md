@@ -1,5 +1,4 @@
-![Comments for Unity Docs](https://user-images.githubusercontent.com/21963717/175757062-3844bd5b-eec7-4ee8-88ba-c8a57def2c8f.png)  
-
+![Developer notes for Unity Docs](https://user-images.githubusercontent.com/21963717/177724481-a3930466-4d8a-44f1-a222-82b0ff51561c.png)
 
 ## Contributing
 To contribute new comments please use the [Chrome extension](TODO). Manually-created discussions will not appear in the documentation.
