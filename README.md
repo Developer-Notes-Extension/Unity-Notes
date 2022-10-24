@@ -16,5 +16,9 @@ Do not report bugs here—use the [Bug Reporter](https://unity3d.com/unity/qa/bu
 ## Tools used
 The extension uses [Giscus](https://github.com/giscus/giscus) to link comments to the discussions on this repo.
 
-## Disclaimer
-This is an unofficial extension and isn't affiliated with or endorsed by Unity Technologies.
+## Support
+Issues with the extension, feedback, and requests, should be given [here](https://github.com/orgs/Developer-Notes-Extension/discussions).
+<br><br>
+
+> **Note**  
+> This is an unofficial extension and isn't affiliated with or endorsed by Unity Technologies.
