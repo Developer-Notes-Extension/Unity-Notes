@@ -1,11 +1,15 @@
 ![Developer notes for Unity Docs](https://user-images.githubusercontent.com/21963717/177724481-a3930466-4d8a-44f1-a222-82b0ff51561c.png)
 
 ## Contributing
-To contribute new comments please use the [Chrome extension](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb). Manually-created discussions will not appear in the documentation.
+To contribute new comments please use the extension for your browser:
+
+- [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
  
-Please contribute notes on usage, relevant examples, references, and gotchas.  
-Do not ask for help here—use the [Forums](https://forum.unity.com/), [Discord](https://discord.gg/unity), or [Unity Answers](https://answers.unity.com/).  
-Do not report bugs here—use the [Bug Reporter](https://unity3d.com/unity/qa/bug-reporting).
+> **Warning**  
+> Please only contribute notes on usage, relevant examples, references, and gotchas.  
+> Do not ask for help here—use the [Forums](https://forum.unity.com/), [Discord](https://discord.gg/unity), or [Unity Answers](https://answers.unity.com/).  
+> Do not report bugs here—use the [Bug Reporter](https://unity3d.com/unity/qa/bug-reporting).
 
 ## Supported sites
 - [Unity Manual and Scripting Reference](https://docs.unity3d.com/)
