@@ -1,10 +1,7 @@
 ![Developer notes for Unity Docs](https://user-images.githubusercontent.com/21963717/177724481-a3930466-4d8a-44f1-a222-82b0ff51561c.png)
 
-## Contributing
-To contribute new comments please use the extension for your browser:
-
-- [Chromium](https://chrome.google.com/webstore/detail/fchdfdnnpkphopmdaochdfnmcahndmnb) (Chrome, Edge, Vivaldi, Brave, Opera, etc)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/developer-notes/)
+## Viewing and contributing notes
+See the [Developer Notes](https://github.com/Developer-Notes-Extension) page for links to the extension.
  
 > **Warning**  
 > Please only contribute notes on usage, relevant examples, references, and gotchas.  
